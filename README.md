@@ -21,12 +21,11 @@ The task is to develop a Java program that simulates an Online Book Marketing Sy
 
 To test the program:
 
-1. Upload your Java files to your server account at `dev.cs.hacettepe.edu.tr`.
-2. Compile the code:
+1. Compile the code:
     ```bash
     javac *.java
     ```
-3. Run the program:
+2. Run the program:
     ```bash
     java Main purchaseOrder.txt priceCatalog.txt
     ```
